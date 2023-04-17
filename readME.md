@@ -1,4 +1,4 @@
-# Color Sniper ![Stars](https://img.shields.io/github/stars/realTristan/ColorSnipper?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/realTristan/ColorSnipper?label=Watchers)
+# Color Sniper ![Stars](https://img.shields.io/github/stars/Simpson-Computer-Technologies-Research/ColorSnipper?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/Simpson-Computer-Technologies-Research/ColorSnipper?label=Watchers)
 ![banner (4)](https://user-images.githubusercontent.com/75189508/186444941-0d870d8b-6dcd-42c1-b09a-a51199deddad.png)
 
 # About
